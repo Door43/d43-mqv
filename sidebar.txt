@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqv:home|Door43 (mqv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqv|d43-mqv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqv/archive/master.zip|d43-mqv.zip]]
+
+**Recent Changes**
+{{changes>ns = mqv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqv|Ethnologue data]]
+
